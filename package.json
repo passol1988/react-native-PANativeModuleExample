@@ -1,0 +1,23 @@
+{
+  "name": "react-native-panativemodule",
+  "version": "1.0.0",
+  "description": "demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/passol1988/react-native-PANativeModuleExample.git"
+  },
+  "keywords": [
+    "PANativeModuleExample",
+    "passol"
+  ],
+  "author": "passol",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/passol1988/react-native-PANativeModuleExample/issues"
+  },
+  "homepage": "https://github.com/passol1988/react-native-PANativeModuleExample#readme"
+}
